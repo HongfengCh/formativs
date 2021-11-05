@@ -1,0 +1,57 @@
+.vedio {
+            width: auto;
+            height: auto;
+            border-width: 5px;
+            padding-left: 300px;
+            padding-right: 100px;
+            padding-top: 5%px;
+            padding-bottom: 30px;
+            margin-top: auto;
+            background-color: rgb(204, 213, 216);
+        }
+.box {
+   font: 30px 'Microsoft YaHei';
+   font-weight: bolder;
+}
+.head {
+            width: auto;
+            height: auto;
+            border-width: 5px;
+            padding-left: 200px;
+            padding-right: 200px;
+            padding-top: 30px;
+            padding-bottom: 30px;
+}
+.link {
+    font: 15px 'Microsoft YaHei';
+    text-decoration: none;
+}
+.tips {
+            width: auto;
+            height: auto;
+            border-width: 2px;
+            border-style: solid;
+            border-color: rgb(175, 179, 179);
+            padding-left: 50px;
+            padding-right: 50px;
+            padding-top: 10px;
+            padding-bottom: 40px;
+            margin-bottom: 40px;
+            margin-top: 40px;
+            margin-right: 700px;
+}
+.content {
+            width: auto;
+            height: auto;
+            border-width: 5px;
+            padding-left: 50px;
+            padding-right: 50px;
+            padding-top: 10px;
+            padding-bottom: 40px;
+            margin-bottom: 40px;
+            margin-top: 40px;
+            margin-right: 700px;
+}
+body {
+            font: 16px/28px 'Microsoft YaHei';
+         }

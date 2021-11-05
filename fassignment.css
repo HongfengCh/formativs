@@ -1,0 +1,184 @@
+        /* * {
+            outline-style: solid;
+            color: white;
+            outline-color: brown;
+            background-color: black; */
+        html{font-size:62.5%;}
+        body {
+            font:normal 100% Arial,sans-serif;font: size 10px; font-size:1.4rem;
+            background: url(images/bg.png) no-repeat;
+            background-size:100% 100%;
+            background-attachment: fixed;
+        }
+        img { 
+            width:100%; -ms-interpolation-mode: bicubic;
+        }
+        @media screen and (max-device-width: 400px)
+        {  .left {
+        float:none;
+        }
+        }
+        @media (max-width: 600px) {
+        .mainner {
+        display: none;
+        }
+        }
+        .left{ width:30%; float:left}
+        .right{ width:70%; float:right;}
+
+
+
+
+
+
+
+
+
+        
+        h1 {
+             font-weight: 400;
+             text-align: center;
+         }
+        h2 {
+             font-size: 30px;
+             font-weight: bolder;
+             font-style: italic;
+             text-align: center;
+         }
+        h3 {
+            font-size: 3rem;
+            font-weight: bolder;
+            font-style: italic;
+            text-align: center;
+        }
+        h4 {
+            font-size: 2rem;
+            text-align: left;
+        }
+        .gray {
+             color: #4d4a4a;
+             font-size: 1.2rem;
+             text-align: center;
+         }
+        a {
+            text-decoration: none;
+            color: rgb(11, 111, 145);
+         }
+        a:hover{
+            color: #000;
+        }
+        .bold {
+            font-weight: bold;
+        }
+        .normal {
+            font-weight: normal;
+        }
+        .italic {
+            font-style: italic;
+            font-size: 1rem;
+        }
+        .deepblue {
+            color: rgb(11, 111, 145);
+        }
+        .tabletext {
+            text-align: center;
+        }
+        .tabletitle {
+            text-align: center;
+            font-size: 3rem;
+        }
+        .title {
+            font-size: 1.8rem;
+        }
+        .con {
+            width: auto;
+            height: auto;
+            border-width: 5px;
+            padding-left: 100px;
+            padding-right: 100px;
+            padding-top: 10px;
+            padding-bottom: 40px;
+            margin-bottom: 40px;
+        }
+        .global,
+        .ice,
+        .ocean {
+            width: auto;
+            height: auto;
+            border-width: 5px;
+            padding-left: 70px;
+            padding-right: 350px;
+            padding-top: 30px;
+            padding-bottom: 30px;
+        }
+        .head {
+            width: auto;
+            height: auto;
+            border-width: 5px;
+            padding-left: 100px;
+            padding-right: 100px;
+            padding-top: 30px;
+            padding-bottom: 10px;
+            margin-bottom: 10px;
+        }
+        .rot {
+            width: auto;
+            height: auto;
+            border-width: 5px;
+            padding-left: 350px;
+            padding-right: 300px;
+            padding-top: 60px;
+            padding-bottom: 60px;
+            background-color: rgb(217, 222, 228);
+        }
+        #manue li {
+            font-weight: bolder;
+              width: 30%;
+              text-align: center;
+              list-style: none;
+              display: inline-block
+        }
+        .sociallink li {
+              font-weight: bolder;
+              width: 30%;
+              text-align: center;
+              list-style: none;
+              display: inline-block;
+         }
+        .others {
+            width: auto;
+            height: auto;
+            border-width: 5px;
+            padding-left: 100px;
+            padding-right: 100px;
+            padding-top: 100px;
+            padding-bottom: 200px;
+        }
+        .changelink {
+             width: auto;
+            height: auto;
+            border-width: 5px;
+            padding-left: 100px;
+            padding-right: 100px;
+            padding-top: 100px;
+            padding-bottom: 5%;
+        }
+        .top {
+            width: auto;
+            height: auto;
+            border-width: 5px;
+            margin-bottom: 0;
+        }
+        .heading {
+            width: auto;
+            height: auto;
+            border-width: 5px;
+            margin-bottom: auto;
+            padding-top: 25px;
+        }
+        .anbx{
+            text-align: center;
+            list-style: none;
+            display: inline-block;
+        }
+        
